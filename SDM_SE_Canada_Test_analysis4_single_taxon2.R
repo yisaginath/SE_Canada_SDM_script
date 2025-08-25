@@ -2,7 +2,7 @@
 ##
 ## Purpose of script: To model species distribution and make biodiversity predictions
 ##
-## Source: Yisa Ginath Yuh, adapted from scripts produced for the prairie region by James Paterson
+## Source: Yisa Ginath Yuh
 ## Email: gyisa@uottawa.ca
 
 ##--------------------------------------------------------------------------------------
@@ -1594,6 +1594,7 @@ for (i in 1:nrow(modelPerformanceAllSpecies)) {
     }
     
   }}
+
 
 
 
